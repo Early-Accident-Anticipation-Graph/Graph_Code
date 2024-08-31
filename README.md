@@ -26,7 +26,7 @@ To use this model, follow these steps:
 
 1. *Clone the Repository*:
    ``
-   git clone git@github.com:Early-Accident-Anticipation-Graph/Graph_Code.git
+   git clone git@github.com:Early-Accident-Anticipation-Graph/Graph_Code.git``
    cd Graph_Code
    
 
