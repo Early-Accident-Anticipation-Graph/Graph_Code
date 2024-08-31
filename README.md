@@ -25,14 +25,14 @@ The model demonstrated rapid improvement and achieved near-perfect precision, ma
 To use this model, follow these steps:
 
 1. *Clone the Repository*:
-   bash
+   ``
    git clone git@github.com:Early-Accident-Anticipation-Graph/Graph_Code.git
    cd Graph_Code
    
 
 2. *Install Dependencies*:
    Make sure you have all necessary dependencies installed. You can install them using:
-   bash
+   ``
    pip install -r requirements.txt
    
 ## Conclusion
