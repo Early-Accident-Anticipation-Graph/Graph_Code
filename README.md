@@ -34,8 +34,9 @@ To use this model, follow these steps:
 
 2. *Install Dependencies*:
    Make sure you have all necessary dependencies installed. You can install them using:
-   ``
-   ```pip install -r requirements.txt```
+   ```
+   pip install -r requirements.txt
+   ```
    
 ## Conclusion
 
