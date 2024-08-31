@@ -26,9 +26,10 @@ To use this model, follow these steps:
 
 1. *Clone the Repository*:
    ```
-   git clone git@github.com:Early-Accident-Anticipation-Graph/Graph_Code.git```
+   git clone git@github.com:Early-Accident-Anticipation-Graph/Graph_Code.git
+   
+   cd Graph_Code
    ```
-   cd Graph_Code```
    
 
 2. *Install Dependencies*:
@@ -40,6 +41,3 @@ To use this model, follow these steps:
 
 This accident prediction model achieves high accuracy in predicting accidents within video sequences. The training results show consistent improvement, with the model converging rapidly to a high-performance state. This model can be further fine-tuned and adapted for various real-world applications involving accident detection and prevention.
 
-## License
-
-This project is licensed under the MIT License.
